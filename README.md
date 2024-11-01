@@ -30,6 +30,7 @@ The parent process waits for all children to finish executing and then detaches 
     - ./ExecutableFileName
 * The program should print process IDs and results.
   - example output:
+    
 ![image](https://github.com/user-attachments/assets/b59aa534-b255-46ee-9670-dc615613ca49)
     
 ## Program explanation
