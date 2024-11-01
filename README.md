@@ -11,7 +11,9 @@ The parent process waits for all children to finish executing and then detaches 
 ### Requirements
 
 * This program must be run on a Linux system
-* Libraries: POSIX shared memory
+* Libraries:
+  * POSIX shared memory
+  * Semaphores
 
 ## Compilation instructions
 
